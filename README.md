@@ -1,1 +1,1 @@
-# Rainbowww
+# rainbow-bot
